@@ -1,0 +1,3 @@
+[submodule "labs"]
+	path = labs
+	url = https://github.com/61c-teach/fa26-lab-starter.git
